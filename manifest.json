@@ -11,7 +11,7 @@
   "content_scripts": [
 {
   "matches": ["*://*/_/chrome/newtab*"],
-  "js": ["js/myscript.js"]
+  "js": ["myscript.js"]
 }
  ],
   "browser_action": { 
